@@ -51,4 +51,4 @@ This project is inspired by the fantastic
 
 ## 📄 License
 
-Apache License
+MIT License
