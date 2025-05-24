@@ -18,7 +18,7 @@ Displays the next departures for any koveb bus stop directly on your home screen
 
 ## 📲 Quick Install via ScriptDude
 
-[![Download with ScriptDude](https://scriptdu.de/download.svg)](https://scriptdu.de?name=koveb-scriptable-widget&source=[gistURL](https://raw.githubusercontent.com/ElishaDev/koveb-scriptable-widget/main/koveb-scriptable-widget.js)&docs=https%3A%2F%2Fgithub.com%2FElishaDev%2Fkoveb-scriptable-widget)
+[![Download with ScriptDude](https://scriptdu.de/download.svg)](https://scriptdu.de?name=koveb-scriptable-widget&source=https://raw.githubusercontent.com/ElishaDev/koveb-scriptable-widget/main/koveb-scriptable-widget.js&docs=https%3A%2F%2Fgithub.com%2FElishaDev%2Fkoveb-scriptable-widget)
 
 ### Installation Instructions
 
